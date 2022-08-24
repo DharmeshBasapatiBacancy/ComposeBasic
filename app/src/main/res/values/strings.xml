@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">The ComposeD HR</string>
+
+    <string name="user_email">jen.doe@android.com</string>
+    <string name="user_handle">\@AndroidDev</string>
+    <string name="user_number">+11 (123) 444 555 666</string>
+    <string name="user_position">Android Developer Extraordinaire</string>
+    <string name="user_name">Jennifer Doe</string>
+
+    <string name="roll">Roll</string>
+
+    <string name="txt_step_1">Tap the lemon tree to select a lemon</string>
+    <string name="txt_step_2">Keep tapping the lemon to squeeze it</string>
+    <string name="txt_step_3">Tap the lemonade to drink it</string>
+    <string name="txt_step_4">Tap the empty glass to start again</string>
+</resources>
