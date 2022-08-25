@@ -13,4 +13,5 @@
     <string name="txt_step_2">Keep tapping the lemon to squeeze it</string>
     <string name="txt_step_3">Tap the lemonade to drink it</string>
     <string name="txt_step_4">Tap the empty glass to start again</string>
+    <string name="title_activity_my_lemonade">MyLemonadeActivity</string>
 </resources>
