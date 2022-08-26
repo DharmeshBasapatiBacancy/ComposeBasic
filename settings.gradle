@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "The ComposeD HR"
+rootProject.name = "ComposeBasic"
 include ':app'

@@ -1,4 +1,4 @@
-package com.example.thecomposedhr
+package com.example.thecomposedhr.data.models
 
 data class Artwork(
     val id: Int,
